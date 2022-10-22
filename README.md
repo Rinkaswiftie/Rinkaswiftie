@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 Hello World!! I'm Rinka, a very very passionate developer from Chennai, a city in the southern part India.
 
 Art has always captivated me. Poems, quotes , paintings and anything that involves a lot of creativity!
@@ -15,7 +12,6 @@ When I'm not solving problems or battling bugs, you can find me spending time in
 - 🌱 I’m currently learning iOS, GraphQL, etc.
 - 👯 I’m looking to collaborate on any projects that involve a lot of creative thinking.
 - 💬 Ask me about Big data processing, Algorithms, Data strutures and Apache Spark.
-- 📫 How to reach me:Just say Hi! 🤗 through https://www.linkedin.com/in/rinka-v 
+- 📫 How to reach me:Just say Hi! 🤗 through <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" /> 
 - 😄 Pronouns: (Her/She)
 - ⚡ Fun fact: I have double jointed fingers!! 
--->
