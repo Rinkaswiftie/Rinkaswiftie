@@ -1,6 +1,6 @@
 # Hello World!! I'm Rinka. 👋 
  
-I'm a very very passionate developer from Chennai, a city in the southern part India.
+I'm a passionate software developer from Chennai, a city in the southern part of India.
 
 Art has always captivated me. Poems, quotes , paintings and anything that involves a lot of creativity!
 
