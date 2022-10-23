@@ -35,5 +35,5 @@ When I'm not solving problems or battling bugs, you can find me spending time in
 <span><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></span>
 
 
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random joke that'll 🌞 your day!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
