@@ -10,7 +10,7 @@ Different people will have different reasons as to why they love being a develop
 
 When I'm not solving problems or battling bugs, you can find me spending time in nature, singing loudly along to music or having long talks with people.
 
-## ⚡🙋‍ About Me
+## ⚡🙋‍ About Me ![Profile View Counter](https://komarev.com/ghpvc/?username=Rinkaswiftie)
 - 🔭 I’m currently working on an application that processes huge amounts of financial data using Apache Spark (It's quite fun).
 - 🌱 I’m currently learning iOS, GraphQL, etc.
 - 👯 I’m looking to collaborate on any projects that involve a lot of creative thinking.
@@ -19,7 +19,7 @@ When I'm not solving problems or battling bugs, you can find me spending time in
 - 😄 Pronouns: (Her/She)
 - ⚡ Fun fact: I have double jointed fingers!! 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Rinkaswiftie)
+
 
 ## <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <span><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" ></span>
@@ -33,3 +33,7 @@ When I'm not solving problems or battling bugs, you can find me spending time in
 <span><img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache%20cassandra&logoColor=white"></span>
 <span><img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></span>
 <span><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></span>
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
