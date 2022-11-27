@@ -35,7 +35,6 @@ When I'm not solving problems or battling bugs, you can find me spending time in
 <span><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></span>
 <span><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"></span>
 <span><img alt=".NET Core" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></span>
-<span><img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></span>
 
 ## 😂 Here is a developer joke that'll 🌞 your day!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
