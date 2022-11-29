@@ -14,7 +14,7 @@ When I'm not solving problems or battling bugs, you can find me spending time in
 - 🔭 I’m currently working on an application that processes huge amounts of financial data using Apache Spark (It's quite fun).
 - 🌱 I’m currently learning iOS, GraphQL, etc.
 - 👯 I’m looking to collaborate on any projects that involve a lot of creative thinking.
-- 💬 Ask me about Big data processing, Algorithms, Data strutures and Apache Spark.
+- 💬 Ask me about Angular, Big data processing, Algorithms, Data strutures and Apache Spark.
 - 📫 How to reach me: Just say Hi! 🤗 through <a href="https://www.linkedin.com/in/rinka-v" target="_blank"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> 
 - 😄 Pronouns: (Her/She)
 - ⚡ Fun fact: I have double jointed fingers!! 
